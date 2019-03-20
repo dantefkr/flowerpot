@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "flowerpot.h"
+#include "../flowerpot/flowerpot.h"
 
 // int onesMaskOfWidthLength(int width);
 TEST(maskGeneration, maskTest0) {
